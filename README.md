@@ -23,7 +23,7 @@ Analyzed data on Violent Crimes and Traffic Stops, highlighted geographic and de
 ## Geographical Pointers, and Violent Crime Types
 
 Mayoral campaign on a theme to work to reduce violent crimes, appears to be well founded:
-- All areas of Charlotte covered by the mayorship should benefit from refocusing of Police efforts (to be covered in slide 6)
+- All areas of Charlotte covered by the mayorship should benefit from refocusing of Police efforts.
 - However, two areas are significant hotspots for violent crimes – the Sugar Creek/1-85 and Nations Ford Arrowood areas
 - The past 3 years (2020-2022) have seen jumps in reported domestic violence compared the prior 3-year period.
 - Addressing guns-related aggravated assaults, on an 8-year high, should be one of the key focus of the mayoral campaign.

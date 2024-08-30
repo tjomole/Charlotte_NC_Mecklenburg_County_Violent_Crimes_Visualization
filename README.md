@@ -39,7 +39,7 @@ Identifying victims of crime could be a useful first step:
 - Men perpetuate more violent crimes than women and are also more likely to be victims of violent crimes.
 - Having a plan to address such as campaigning on community outreach programs, including local police engagement within the crime hotspot areas, is likely to resonate well if specific groups are called out, as the data is demanding.
 
-<img width="891" alt="image" src="https://github.com/user-attachments/assets/1175df26-d343-426e-a618-f6654e6a45f3">
+<img width="891" alt="image" src="https://github.com/user-attachments/assets/e78e9d37-231e-4e22-915b-e255dcf50d56">
 
 
 ## Opportunity to Automate Traffic Enforcement, and Refocus Police Effort
